@@ -22,12 +22,12 @@ h1{
 .city3{
   width:80%;
   position: relative;
-  top:4px;
+  top:6px;
 }
 
 .cloud1{
-  top:200px;
-  left:200px;
+  top:35%;
+  left:15%;
   width:12%;
   position: absolute;
 }
@@ -40,26 +40,26 @@ h1{
 
 .cloud3{
   width:12%;
-  top:200px;
-  left:450px;
+  top:20%;
+  left:15%;
   position: absolute;
 }
 
 .cloud4{
   width:12%;
-  right:250px;
+  right:20%;
   position: absolute;
 }
 
 .cloud5{
   width:12%;
-  right:410px;
+  right:30%;
   position: absolute;
 }
 
 .cloud6{
-  left:160px;
-  bottom:380px;
+  left:12%;
+  bottom:55%;
 width:12%;
   position: absolute;
 }
