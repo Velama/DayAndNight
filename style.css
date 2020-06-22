@@ -1,0 +1,104 @@
+body{
+  text-align: center;
+  margin:0;
+}
+
+h1{
+  color: white;
+  font-family: 'Sacramento', cursive;
+  font-size: 375%;
+  bottom:250%;
+  width:20%;
+  margin:0 auto;
+
+}
+
+.city{
+  width:80%;
+  position: relative;
+  top:10px;
+}
+
+.city3{
+  width:80%;
+  position: relative;
+  top:6px;
+}
+
+.cloud1{
+  top:200px;
+  left:200px;
+  width:12%;
+  position: absolute;
+}
+
+.cloud2{
+  width:12%;
+  right:250px;
+  position: absolute;
+}
+
+.cloud3{
+  width:12%;
+  top:200px;
+  left:450px;
+  position: absolute;
+}
+
+.cloud4{
+  width:12%;
+  right:250px;
+  position: absolute;
+}
+
+.cloud5{
+  width:12%;
+  right:410px;
+  position: absolute;
+}
+
+.cloud6{
+  left:160px;
+  bottom:380px;
+width:12%;
+  position: absolute;
+}
+
+
+.moon{
+  position: absolute;
+  left: 25%;
+  top:25%;
+  width:8%;
+}
+.sunset{
+ position: absolute;
+ bottom:55%;
+  width:15%;
+
+}
+
+.sun{
+  bottom:60%;
+  left: 25%;
+  position: absolute;
+  width:15%;
+}
+
+.Top-container{
+  padding-top:285px;
+  background-color: #40bad5;
+  position: relative;
+}
+
+.Middle-container{
+  background-color: #ff9234;
+  position: relative;
+  padding-top:320px;
+}
+
+.Botton-container{
+  background-color:#1f4068;
+  position: relative;
+  padding-top:350px;
+}
