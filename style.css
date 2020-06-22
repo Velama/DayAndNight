@@ -8,8 +8,8 @@ h1{
   font-family: 'Sacramento', cursive;
   font-size: 375%;
   bottom:250%;
-  width:20%;
-  margin:0 auto;
+
+  
 
 }
 
@@ -34,7 +34,7 @@ h1{
 
 .cloud2{
   width:12%;
-  right:250px;
+  right:20%;
   position: absolute;
 }
 
