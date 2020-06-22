@@ -22,7 +22,7 @@ h1{
 .city3{
   width:80%;
   position: relative;
-  top:6px;
+  top:4px;
 }
 
 .cloud1{
@@ -86,7 +86,7 @@ width:12%;
 }
 
 .Top-container{
-  padding-top:285px;
+  padding-top:21%;
   background-color: #40bad5;
   position: relative;
 }
@@ -94,11 +94,11 @@ width:12%;
 .Middle-container{
   background-color: #ff9234;
   position: relative;
-  padding-top:320px;
+  padding-top:24%;
 }
 
 .Botton-container{
   background-color:#1f4068;
   position: relative;
-  padding-top:350px;
+  padding-top:28%;
 }
